@@ -38,19 +38,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 50px;
-    padding: 160px 150px;
+    padding: 120px 150px;
     background-color: #1F2937;
 }
 
-img {
-    width: 200px;
+.section-one img {
+    width: 500px;
 }
 
 .section-one-container h1,
 .section-one-container p {
-    width: 400px;
-    margin-bottom: 10px;
+    width: 500px;
+    margin-bottom: 12px;
 }
 
 .section-one-container h1 {
@@ -72,3 +71,27 @@ button {
     border-radius: 10px;
     border: none;
 }
+
+.section-two h2 {
+    text-align: center;
+    padding: 40px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.section-two img {
+    width: 200px;
+}
+
+.section-two-info {
+    padding: 40px 200px 225px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgdesc {
+    text-align: center;
+    width: 200px;
+}
+
