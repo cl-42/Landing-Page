@@ -42,6 +42,7 @@
     padding: 120px 150px;
     background-color: #1F2937;
     gap: 50px;
+    margin-top: -5px;
 }
 
 .placeholder-image {
